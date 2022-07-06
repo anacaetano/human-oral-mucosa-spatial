@@ -12,4 +12,4 @@ The interplay among different cells in a tissue is essential for maintaining hom
 Analysis of spatial transcriptomic data and single-cell RNA sequencing integration.
 
 # Data
-Raw spatial sequencing data obtained from patients used in this study is deposited under GSE206621. These will become available upon acceptance of the manuscript. Single-cell RNA sequencing raw data is deposited and available under GSE152042.
+Raw spatial sequencing data generated in this study is deposited under GSE206621. These will become available upon acceptance of the manuscript. Single-cell RNA sequencing raw data is deposited and available under GSE152042.
